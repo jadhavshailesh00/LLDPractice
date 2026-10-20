@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LLD.ConsoleRunner/LLD.ConsoleRunner.csproj" />
+  </Folder>
+  <Folder Name="/src/02_Problems/">
+    <Project Path="src/02_Problems/LLD.ParkingLot/LLD.ParkingLot.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LLD.UnitTests/LLD.UnitTests.csproj" />
+  </Folder>
+</Solution>
